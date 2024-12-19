@@ -1,9 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="vbDE7z4dQPfwqYaZ6fYt">
-    <mxGraphModel>
+    <mxGraphModel dx="872" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;span class=&quot;hljs-built_in&quot;&gt;mod&lt;/span&gt;/&lt;br&gt;├── publications/ : Notre module de publication&lt;br&gt;    ├── db/&lt;br&gt;    │   ├── install.xml : Contient le schéma de nos tables&lt;br&gt;    │   ├── access.php : Contient les règles d&#39;accès&lt;br&gt;    ├── lang/ : Pour l&#39;internationalisation&amp;nbsp;&lt;br&gt;    │   ├── en/&lt;br&gt;    │   │   ├── publications.php : Text en anglais&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;│&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;├── fr/&lt;br&gt;│ │ ├── publications.php : Text en français&lt;br&gt;    ├── classes/&lt;br&gt;    │   ├── &lt;span class=&quot;hljs-keyword&quot;&gt;event&lt;/span&gt;/&lt;br&gt;    ├── version.php&lt;br&gt;    ├── settings.php&lt;br&gt;    ├── index.php&lt;br&gt;    ├── view.php&lt;br&gt;    ├── submission.php&lt;br&gt;    ├── validate.php&lt;br&gt;    ├── statistics.php&lt;/div&gt;" link="&lt;span class=&quot;hljs-built_in&quot;&gt;mod&lt;/span&gt;/├── publications/    ├── db/    │   ├── install.xml    │   ├── access.php    ├── lang/    │   ├── en/    │   │   ├── publications.php    ├── classes/    │   ├── &lt;span class=&quot;hljs-keyword&quot;&gt;event&lt;/span&gt;/    ├── version.php    ├── settings.php    ├── index.php    ├── view.php    ├── submission.php    ├── validate.php    ├── statistics.php" id="I0gCaEgmiNNYK8eLxdaN-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="220" y="100" width="580" height="270" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
