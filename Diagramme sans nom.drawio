@@ -10,8 +10,11 @@
         <mxCell id="9J8Sa_pjValASLdkcOcv-7" value="" style="image;html=1;image=img/lib/clip_art/computers/MacBook_128x128.png" vertex="1" parent="1">
           <mxGeometry x="500" y="50" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-9" value="tenant1.kfokam48.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="10" width="130" height="30" as="geometry" />
+        <mxCell id="9J8Sa_pjValASLdkcOcv-9" value="&lt;u&gt;tenant1.kfokam48.com&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="153" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9J8Sa_pjValASLdkcOcv-11" value="&lt;u&gt;tenant2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.kfokam48.com&lt;/span&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="10" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
