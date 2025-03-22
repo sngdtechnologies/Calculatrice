@@ -48,10 +48,10 @@
             <mxPoint x="247" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-48" value="Extract tenant name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="451" y="418" width="100" height="30" as="geometry" />
+        <mxCell id="9J8Sa_pjValASLdkcOcv-48" value="Extract tenant name&amp;nbsp;&lt;div&gt;+ Approval&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ Cleaning&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="451" y="370" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.011;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9J8Sa_pjValASLdkcOcv-48" target="9J8Sa_pjValASLdkcOcv-40">
+        <mxCell id="9J8Sa_pjValASLdkcOcv-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.011;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.013;exitY=0.639;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9J8Sa_pjValASLdkcOcv-48" target="9J8Sa_pjValASLdkcOcv-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="440" as="sourcePoint" />
             <mxPoint x="470" y="390" as="targetPoint" />
