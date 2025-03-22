@@ -28,10 +28,10 @@
           <mxGeometry x="190" y="320" width="370" height="310" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-31" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="297" y="330" width="25.57" height="30" as="geometry" />
+          <mxGeometry x="286" y="330" width="25.57" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-32" value="&lt;u&gt;config.php (dynamic)&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="327" y="330" width="119" height="30" as="geometry" />
+        <mxCell id="9J8Sa_pjValASLdkcOcv-32" value="config.php (dynamic) + .env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="316" y="330" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-40" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="202" y="370" width="180" height="110" as="geometry" />
@@ -115,21 +115,6 @@
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-65" value="Cache Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="588.5" y="368" width="80" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-68" value=".env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="608" y="433" width="29" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="441" as="sourcePoint" />
-            <mxPoint x="610" y="441" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-70" value="use" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9J8Sa_pjValASLdkcOcv-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-9" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-71" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="602" y="320" width="50" height="42" as="geometry" />
