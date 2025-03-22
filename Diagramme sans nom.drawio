@@ -176,7 +176,7 @@
         <mxCell id="9J8Sa_pjValASLdkcOcv-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="653" y="259" width="160" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-104" value="/deploy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9J8Sa_pjValASLdkcOcv-104" value="&lt;u&gt;/deploy&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705.74" y="264" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-110" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;All script automation file.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Interact with source code&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
