@@ -17,7 +17,7 @@
           <mxGeometry x="472" y="10" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-15" value="Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="159" y="243" width="440" height="417" as="geometry" />
+          <mxGeometry x="170" y="243" width="520" height="417" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-25" value="Source code" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="390" height="350" as="geometry">
@@ -114,20 +114,37 @@
           <mxGeometry x="452.95" y="17" width="19.05" height="16" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-64" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/StorSimple_Data_Managers.svg;" vertex="1" parent="1">
-          <mxGeometry x="635" y="544" width="37" height="50" as="geometry" />
+          <mxGeometry x="602" y="320" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-65" value="Cache Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="614" y="600" width="80" height="30" as="geometry" />
+          <mxGeometry x="580.5" y="370" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9J8Sa_pjValASLdkcOcv-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.47;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9J8Sa_pjValASLdkcOcv-30" target="9J8Sa_pjValASLdkcOcv-64">
+        <mxCell id="9J8Sa_pjValASLdkcOcv-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9J8Sa_pjValASLdkcOcv-30" target="9J8Sa_pjValASLdkcOcv-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619" y="620" as="sourcePoint" />
-            <mxPoint x="719" y="620" as="targetPoint" />
+            <mxPoint x="709.96" y="260.91999999999996" as="sourcePoint" />
+            <mxPoint x="686" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-67" value="Cache optimisation" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9J8Sa_pjValASLdkcOcv-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="39" y="15" as="offset" />
+            <mxPoint x="-42" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9J8Sa_pjValASLdkcOcv-68" value=".env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="473" width="36" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="9J8Sa_pjValASLdkcOcv-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="9J8Sa_pjValASLdkcOcv-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="500" as="sourcePoint" />
+            <mxPoint x="450" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9J8Sa_pjValASLdkcOcv-70" value="use" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9J8Sa_pjValASLdkcOcv-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
