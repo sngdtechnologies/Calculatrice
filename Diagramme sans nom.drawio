@@ -14,7 +14,7 @@
           <mxGeometry x="153" y="10" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-11" value="&lt;u&gt;tenant2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.kfokam48.com&lt;/span&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="10" width="130" height="30" as="geometry" />
+          <mxGeometry x="472" y="10" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-15" value="Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="159" y="243" width="440" height="290" as="geometry" />
@@ -32,7 +32,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9J8Sa_pjValASLdkcOcv-25" value="Source code" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="360" width="200" height="150" as="geometry" />
+          <mxGeometry x="180" y="290" width="390" height="210" as="geometry">
+            <mxRectangle x="180" y="290" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9J8Sa_pjValASLdkcOcv-28" value="config.php" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="9J8Sa_pjValASLdkcOcv-25">
+          <mxGeometry x="14" y="40" width="366" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
