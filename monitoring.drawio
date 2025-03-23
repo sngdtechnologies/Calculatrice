@@ -20,10 +20,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xVC4U7UjAwEscI-Leogj-6" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;https://kfokam48:9090&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="311.59000000000003" width="130" height="30" as="geometry" />
+          <mxGeometry x="70" y="305.59000000000003" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVC4U7UjAwEscI-Leogj-7" value="&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;https://kfokam48:3000&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="356.75" y="311.59000000000003" width="130" height="30" as="geometry" />
+          <mxGeometry x="356.75" y="304.59000000000003" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVC4U7UjAwEscI-Leogj-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="80" height="230" as="geometry" />
