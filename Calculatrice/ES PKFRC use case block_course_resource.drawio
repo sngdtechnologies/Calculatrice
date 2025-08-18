@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8oVLSu1m1S_BDH_rNiiH-1" value="Add instance block" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="505" y="485" width="140" height="70" as="geometry" />
+          <mxGeometry x="532" y="485" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8oVLSu1m1S_BDH_rNiiH-2" value="View group details" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8oVLSu1m1S_BDH_rNiiH-3" value="Update group" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="570" width="140" height="70" as="geometry" />
+          <mxGeometry x="395" y="562" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8oVLSu1m1S_BDH_rNiiH-4" value="Search a forum or group" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="342" y="489" width="140" height="70" as="geometry" />
@@ -37,15 +37,14 @@
         <mxCell id="8oVLSu1m1S_BDH_rNiiH-7" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="661" y="330" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5-tzHbKNL-7uwhYdKt3a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.979;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8oVLSu1m1S_BDH_rNiiH-8" target="8oVLSu1m1S_BDH_rNiiH-3">
+        <mxCell id="5-tzHbKNL-7uwhYdKt3a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8oVLSu1m1S_BDH_rNiiH-8" target="8oVLSu1m1S_BDH_rNiiH-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="757" y="495" as="sourcePoint" />
             <mxPoint x="507" y="615" as="targetPoint" />
             <Array as="points">
               <mxPoint x="800" y="485" />
               <mxPoint x="800" y="640" />
-              <mxPoint x="507" y="640" />
-              <mxPoint x="507" y="619" />
+              <mxPoint x="465" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
